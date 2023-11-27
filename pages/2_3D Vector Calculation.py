@@ -99,9 +99,9 @@ Minus_y = Ay - By
 Minus_z = Az - Bz
 Dot_product = Ax * Bx + Ay * By + Az * Bz
 # .............................youti work on .......................................................
-Cross_product_x =
-Cross_product_y =
-Cross_product_z =
+
+
+
 
 # .......................... A + B figure setting..........................
 fig1 = plt.figure(1)
